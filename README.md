@@ -1,1 +1,1 @@
-I'm ready for git pull. Yay!
+Getting ready to be up to date. Yay!
