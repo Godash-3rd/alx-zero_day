@@ -1,1 +1,1 @@
-Editing my first readme. Please take note!
+Editing my first readme. Please take note, guys.
