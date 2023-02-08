@@ -1,1 +1,1 @@
-Editing my first readme. Please take note, guys.
+Ready up for git pull. Yay!
